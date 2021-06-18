@@ -2,7 +2,7 @@
 
 ## Else Meijerink
 
-I am a budding **Full Stack Junior Developer**, starting out my journey at Maker's Academy. I'm a puzzle solver, I love to research and fix problems.
+I am a budding **Full Stack Junior Developer**, starting out my journey at Maker's Academy Developer Bootcamp. I'm a puzzle solver, I love to research and fix problems.
 
 I started out in Biomedical Science, but soon found the lab work was repetitive and not creative enough for me. So I switched to Archaeology, but among other things it doesn't help people or fix any problems. So I decided to give writing code a try, and it's been really fun to learn and make things.
 
@@ -52,15 +52,17 @@ A 16-week intensive developer bootcamp, where I learned:
 #### University College London (UCL) (September 2017 to November 2018)
 _MSc Bioarchaeology and Forensic Anthropology_ 
 - Merit (top 10%)
-- Subjects all revolve around the identification, analysis, and research of the human skeleton
+- Identification, analysis, and research of the human skeleton.
+- Statistics
 
 #### University of Amsterdam (UvA) (September 2014 to August 2017)
 _BA Archaeology and Prehistory_ 
 - 7.8/10 average (top 5%)
 - Honours - 30 ECTS extra with an extended thesis and personal research
 project.
+- All areas of archaeology
+- Statistics and databases
 - Minor Book Science and Palaeography
-
 
 ## Hobbies and Interests
 - Love animals, especially my two cats. Will share pictures, video’s, and/or gifs when asked.
