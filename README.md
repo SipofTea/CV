@@ -65,7 +65,7 @@ project.
 - Minor Book Science and Palaeography
 
 ## Hobbies and Interests
-- Love animals, especially my two cats. Will share pictures, video’s, and/or gifs when asked.
+- Love animals - especially my two cats. Will share pictures, video’s, and/or gifs when asked.
 - Crafts - I enjoy embroidery, card making, sewing, essentially anything creative.
 - Baking - I love to bake treats for friends, family, and co-workers. My greatest recurring success is a berry and apple crumble.
 
