@@ -2,15 +2,24 @@
 
 ## Else Meijerink
 
-I am a budding **Full Stack Junior Developer**, starting out my journey at Maker's Academy Developer Bootcamp. I'm a puzzle solver, I love to research and fix problems.
+I am a budding **Full Stack Junior Developer**, recently graduated from Maker's Academy Developer Bootcamp. I'm a puzzle solver, I love to research and fix problems.
 
-I started out in Biomedical Science, but soon found the lab work was repetitive and not creative enough for me. So I switched to Archaeology, but among other things it doesn't help people or fix any problems. So I decided to give writing code a try, and it's been really fun to learn and make things.
+I started out in Biomedical Science, but soon found the lab work was repetitive and not creative enough for me. So I switched to Archaeology, but among other things it doesn't usually help people or fix any problems. So I decided to give writing code a try, and it's been really fun to learn and make things.
 
 After graduating from Maker's I hope to find a role in a company where I can make a difference, and create something that will help people.
 
 ## Projects
 
-Coming soon
+| Name                         | Description       | Development timeframe | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
+| **[Chronicle](https://github.com/SipofTea/chronicle-content-tracker)**| A web project that helps you manage the content you want to read and watch. | 2 weeks |JavaScript, Node.js, Express, PostgreSQL, Sequelize, Passport, BCrypt, Nodemon, Jest, Puppeteer|
+| **[Acebook](https://github.com/SipofTea/acebook-danger-noodles)**| A group project to develop a Facebook-like social media platform. | 2 weeks | Ruby-On-Rails |
+| **[MakersBnB](https://github.com/SipofTea/makers-bnb)**| A team project to build an AirBnB clone ground up. | 1 week | |
+| **[Note Keeper](https://github.com/SipofTea/js-notes-app)**| A web project to let you create and view notes. Written without (testing)frameworks, but still well tested.| 1 week | JS, Surge |
+| **[Chitter](https://github.com/SipofTea/chitter-challenge)**| A light Twitter clone that lets you post and view 'peeps'. | 2 days | |
+| **[Bank Tech Test](https://github.com/SipofTea/bank-tech-test)**| A command line app that lets you manage a bank account.| 2 days | JS |
+| **[Gilded Rose](https://github.com/SipofTea/gilded-rose-tech-test)**| A refactoring challenge for a inventory management system. | 2 days | JS |
+
 
 ## Work Experience
 
