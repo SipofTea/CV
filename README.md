@@ -1,5 +1,7 @@
 🔴🟠🟡🟢🔵🟣
 
+[Projects](#projects) | [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
+
 ## Else Meijerink
 
 I am a budding **Full Stack Junior Developer**, recently graduated from Maker's Academy Developer Bootcamp. I'm a puzzle solver, I love to research and fix problems.
